@@ -1,6 +1,7 @@
 {
     "name": "casio/pagarmecoreapi",
     "type": "library",
+    "version": "5.7.0",
     "description": "Pagarme API",
     "keywords": ["PagarmeCoreApi","API","SDK"],
     "homepage": "https://apimatic.io",
