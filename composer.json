@@ -1,5 +1,5 @@
 {
-    "name": "pagarme/pagarme-php",
+    "name": "casio/pagarmecoreapi",
     "type": "library",
     "description": "Pagarme API",
     "keywords": ["PagarmeCoreApi","API","SDK"],
@@ -18,8 +18,8 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "apimatic/unirest-php": "^2.0.0",
-        "apimatic/jsonmapper": "^1.3.1"
+        "casio/unirest-php": "2.3.1",
+        "apimatic/jsonmapper": "^3.0.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^2.7"
